@@ -8,8 +8,8 @@ MonoImporter:
   userData: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 119922
-  packageName: PUN 2 - FREE
-  packageVersion: 2.51
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.8
   assetPath: Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs
-  uploadId: 776507
+  uploadId: 807342

@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 7015e500cd5b71244af56448dfb59804
+labels:
+- FusionCodeDoc
 TextScriptImporter:
   externalObjects: {}
   userData: 
@@ -7,8 +9,8 @@ TextScriptImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 119922
-  packageName: PUN 2 - FREE
-  packageVersion: 2.51
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.8
   assetPath: Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.xml
-  uploadId: 776507
+  uploadId: 807342
